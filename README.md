@@ -1,2 +1,2 @@
 # first
-This create a demo first class 
+This create a demo first class. 
